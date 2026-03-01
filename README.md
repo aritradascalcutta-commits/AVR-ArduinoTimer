@@ -25,4 +25,5 @@ When an interrupt happens, buzzer is triggered and the display shows 9999 on hig
 Aritra Das
 
 ## Circuit Diagram
-https://github.com/aritradascalcutta-commits/AVR-ArduinoTimer/blob/main/Screenshot%202026-02-28%20220433.png
+<img width="1711" height="757" alt="Screenshot 2026-02-28 220433" src="https://github.com/user-attachments/assets/16b41ca2-7c70-421d-b274-4720bdd92b2f" />
+
